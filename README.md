@@ -1,4 +1,4 @@
-# Debugging with Pry
+pwd# Debugging with Pry
 
 ## Learning Goals
 
